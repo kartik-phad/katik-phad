@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-phad&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-phad" /> </p>
 
-- = **to prepare them for interview**
 
-- 🌱 I’m currently learning **I’m currently learning MongoDB, Express.js, React.js, Node.js, Aspiring Full-stack Web Developer**
+
+- 🌱 I’m currently learning  MongoDB, Express.js, React.js, Node.js, Aspiring Full-stack Web Developer**
 
 - 💬 Ask me about **HTML , CSS , JavaScript , MongoDB , NodeJS , Express**
 
