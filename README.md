@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Phad</h1>
-<h3 align="center">A self-motivated, hard-working and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
+<h3 align="center">A self-motivated, hard-working and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, React, HTML and CSS. Problem-solving mindset and the ability to perform well in collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-phad&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-phad" /> </p>
 
